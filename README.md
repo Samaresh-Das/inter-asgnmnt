@@ -1,5 +1,9 @@
 # TMD: FullStack Intern Assignment
 
+## COMPLETED
+
+Use username = admin and password = password for logging in
+
 ## Overview
 
 This assignment involves setting up a simple username/password authentication system using Redux for state management and Next.js for the front-end and back-end. You will create API endpoints with bearer token authentication and implement a custom `useAuthSession` hook to manage the user's session on the client side.
